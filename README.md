@@ -1,15 +1,16 @@
 # Arcane_Page.github.io
 
-<img src="Screen Shot 10-06-22 at 05.06 PM">
+![Screen Shot 10-06-22 at 05 06 PM](https://user-images.githubusercontent.com/88740646/194409882-a0abadbb-51d3-434f-a12f-4ac098a7209f.PNG)
+
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge) 
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img align="center" alt="Thiago-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="Thiago-SASS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">  
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+
+Projeto Arcane, feito com base nos Projetos do IuriCode, realizado com React.js e Sass.
+
 
 ### Ajustes e melhorias
 
@@ -18,30 +19,14 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Adicionar funcionalidades ao projeto!
 
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando Arcane
 
 Para instalar o <nome_do_projeto>, siga estas etapas:
 
-Linux e macOS:
-```
-<comando_de_instalação>
-```
-
 Windows:
 ```
-<comando_de_instalação>
+[<comando_de_instalação>](https://github.com/thiagO031/Arcane_Page.github.io.git)
 ```
-
-## ☕ Usando <nome_do_projeto>
-
-Para usar <nome_do_projeto>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
-
 
 
 ## 😄 Seja um dos contribuidores<br>
