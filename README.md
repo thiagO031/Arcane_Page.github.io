@@ -21,7 +21,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 🚀 Instalando Arcane
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar o Arcane, siga estas etapas:
 
 Windows:
 ```
