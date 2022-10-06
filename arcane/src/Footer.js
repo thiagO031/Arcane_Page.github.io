@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
 // sass
-// import 'src/style/Footer.sass'
+import "./style/Footer.sass";
 
 const Footer = () => {
   return (
@@ -16,4 +16,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default Footer;

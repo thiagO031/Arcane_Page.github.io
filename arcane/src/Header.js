@@ -1,16 +1,16 @@
-import React from 'react'
+import React from "react";
 
 // sass
-// import './style/Header.sass';
+import "./style/Header.sass";
 
 // react-icons
-import { HiOutlineMenuAlt2 } from "react-icons/hi";
+// import { HiOutlineMenuAlt2 } from "react-icons/hi";
 
 const Header = () => {
   return (
     <header className="header-container">
         {/* <div className="header-icon">icon</div> */}
-        <i><HiOutlineMenuAlt2/></i>
+        {/* <i><HiOutlineMenuAlt2/></i> */}
         <nav className="header-nav">
             <ul>
                 <span>

@@ -1,10 +1,10 @@
-import React from 'react'
+import React from "react";
 
 // sass
-// import './style/Main.sass'
+import "./style/Main.sass";
 
 // react-icons
-import { MdOutlineNotificationsNone } from "react-icons/md"
+// import { MdOutlineNotificationsNone } from "react-icons/md"
 
 const Main = () => {
   return (
@@ -16,7 +16,7 @@ const Main = () => {
                 <span>
                     {/* <i><MdOutlineNotificationsNone/></i> */}
                     <button>
-                        <i><MdOutlineNotificationsNone/></i>
+                        {/* <i><MdOutlineNotificationsNone/></i> */}
                         avise-me
                         </button>
                 </span>
