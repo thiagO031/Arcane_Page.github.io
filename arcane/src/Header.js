@@ -4,23 +4,23 @@ import React from "react";
 import "./style/Header.sass";
 
 // react-icons
-// import { HiOutlineMenuAlt2 } from "react-icons/hi";
+import { HiOutlineMenuAlt2 } from "react-icons/hi";
 
 const Header = () => {
   return (
     <header className="header-container">
-        {/* <div className="header-icon">icon</div> */}
-        {/* <i><HiOutlineMenuAlt2/></i> */}
+
+        <i><HiOutlineMenuAlt2/></i>
         <nav className="header-nav">
             <ul>
                 <span>
                     <li> 
-                        <p>inscreva-se</p> 
+                        <button>inscreva-se</button> 
                     </li>
                 </span>
                 
                 <li>
-                    <p>entrar</p>
+                    <button>entrar</button>
                 </li>
             </ul>
         </nav>

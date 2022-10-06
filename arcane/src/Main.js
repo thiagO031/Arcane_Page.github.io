@@ -4,21 +4,23 @@ import React from "react";
 import "./style/Main.sass";
 
 // react-icons
-// import { MdOutlineNotificationsNone } from "react-icons/md"
+import { MdOutlineNotificationsNone } from "react-icons/md"
 
 const Main = () => {
   return (
     <main className="main-container">
         <div className="main-content">
-            <h1><span>arcane</span></h1>
+            <h1>
+              <span>arcane</span>
+            </h1>
             <h1>parte 2</h1>
+            
             <div className="main-buttons">
                 <span>
-                    {/* <i><MdOutlineNotificationsNone/></i> */}
                     <button>
-                        {/* <i><MdOutlineNotificationsNone/></i> */}
+                        <i><MdOutlineNotificationsNone/></i>
                         avise-me
-                        </button>
+                      </button>
                 </span>
                 <button>adicionar na lista</button>
             </div>

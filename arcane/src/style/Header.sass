@@ -1,13 +1,18 @@
+@import "Variables"
+@import "Mixins"
 
 .header-container
     position: relative
 
-    display: flex
-    flex-direction: row
-    align-items: center
-    justify-content: space-between
-
+    @include flexBetween
+    
     height: 100px
+
+    i
+        color: $color-white
+        font-size: 35px
+    
+        cursor: pointer
 
 .header-nav
     ul
@@ -16,32 +21,6 @@
 
         list-style: none
 
-        span
-            li
-                background-color: #0080c8
-                color: white
-                border: 2px solid #0080c8
+        @include button
 
-                &:hover
-                    background-color: #005688
-                    border: 2px solid #005688
-                    transition: .3s
-
-                p
-                    color: #e7e7e7
-
-        li
-            text-transform: uppercase
-            margin: 0px 0px 0px 35px
-
-            border: 2px solid #e7e7e7
-            background-color: transparent
-            border-radius: 4px
-            color: black
-            padding: 8px 32px
-            gap: 10px
-            cursor: pointer
-
-            p
-                font-weight: 500
-                color: #e7e7e7
+            
